@@ -23,3 +23,19 @@ When the target variable that we’re trying to predict is continuous, such as i
 ![image-20200513230605298](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200513230605298.png)![image-20200513230615084](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200513230615084.png)
 
 ![image-20200513230627303](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200513230627303.png)
+
+## Parameter Learning
+
+![image-20200515012641958](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200515012641958.png)
+
+![image-20200515012617901](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200515012617901.png)
+
+![image-20200515013807213](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200515013807213.png)
+
+![image-20200515013830677](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200515013830677.png)
+
+![image-20200515013851005](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200515013851005.png)
+
+![image-20200515014902768](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200515014902768.png)
+
+![image-20200515014912650](C:\Users\Beichen\AppData\Roaming\Typora\typora-user-images\image-20200515014912650.png)
